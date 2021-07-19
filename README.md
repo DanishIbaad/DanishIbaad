@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DanishIbaad
+- My Actual Name is Avishake Choudhury, You can call me DanishIbaad
 - 👀 I’m interested in Deep Learning, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Advanced Machine Learning Using Python from AiLabs Industrial Training
 - 💞️ I’m looking to collaborate on Detection and Classification problems
